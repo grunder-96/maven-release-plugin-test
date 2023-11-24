@@ -5,7 +5,7 @@
 
   <groupId>com.dmdev</groupId>
   <artifactId>first-maven</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <name>first-maven</name>
@@ -13,7 +13,7 @@
   <scm>
     <connection>scm:git:git@github.com:grunder-96/maven-release-plugin-test.git</connection>
     <url>scm:git:git@github.com:grunder-96/maven-release-plugin-test.git</url>
-    <tag>first-maven-1.0.0</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <modules>
