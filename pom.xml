@@ -13,6 +13,7 @@
 
   <scm>
     <connection>scm:git:git@github.com:grunder-96/maven-release-plugin-test.git</connection>
+    <url>scm:git:git@github.com:grunder-96/maven-release-plugin-test.git</url>
   </scm>
 
   <modules>
